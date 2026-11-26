@@ -10,6 +10,10 @@
 - Python 3.8+
 - Зависимости из `requirements.txt`
 
+## Работа с базой данных
+
+SQL-запросы к заданиям 1 и 2 — в файле [`database_tasks.sql`](database_tasks.sql).
+
 ## Установка зависимостей
 
 ```bash
