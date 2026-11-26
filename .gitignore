@@ -1,0 +1,26 @@
+# Виртуальное окружение
+venv/
+env/
+.venv/
+
+# Кеш Python и pytest
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.pytest_cache/
+.mypy_cache/
+
+# Отчёты и логи
+*.log
+allure-results/
+allure-report/
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# Локальные конфиги
+.env
+.env.local
