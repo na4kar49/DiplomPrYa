@@ -61,13 +61,13 @@ pytest -v
 ## Структура проекта
 
 ```
-├── configuration.py             # URL API и эндпоинты
-├── data.py                      # тело запроса и заголовки
-├── sender_stand_request.py      # функции отправки HTTP-запросов
-├── test_create_and_get_order.py # тест
-├── requirements.txt             # зависимости
-├── .gitignore                   # игнорируемые файлы
-└── README.md                    # описание проекта
+├── configuration.py                    # URL API и эндпоинты
+├── data.py                             # тело запроса и заголовки
+├── sender_stand_request.py             # функции отправки HTTP-запросов
+├── test_get_order_by_track_returns_200 # тест
+├── requirements.txt                    # зависимости
+├── .gitignore                          # игнорируемые файлы
+└── README.md                           # описание проекта
 ```
 
 ## Примечания
